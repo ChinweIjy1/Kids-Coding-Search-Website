@@ -8,6 +8,6 @@ This website is created to enable children search for the programs they can use 
 * User can view Coding Program details
 
 ### Authors
-Chinwendu Ijy Ejiro-Majemite - [Github](https://github.com/ChinweIjy1)
-Precious Okafor -
-Adama Ndako -
+* Chinwendu Ijy Ejiro-Majemite - [Github](https://github.com/ChinweIjy1)
+* Precious Okafor -
+* Adama Ndako -
